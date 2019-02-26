@@ -1,3 +1,7 @@
+Author: Edwin Aramburo
+Date: 2/25/19
+
+
 *This program will decrypt your sha1 hash and tell you what your password,
 if the password is not in the database then the text Password not in database
 will appear*
